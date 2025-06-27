@@ -1,16 +1,40 @@
-# mayin_tarlasi
+# 🧨 Minesweeper Game - Flutter
 
-A new Flutter project.
+A simple and interactive Minesweeper game built using **Flutter**. This project is designed for mobile platforms (Android/iOS) and provides a classic puzzle experience with clean UI and responsive gameplay.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔢 10x10 grid layout
+- 💣 Random bomb placement
+- 🧠 Bomb count indicator on each cell
+- 🚩 Flagging mechanism (optional)
+- 📱 Responsive mobile UI
+- 🌗 Support for light/dark mode
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this project locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/OmerFarukAY/AlisverisUygulamasi.git
+cd AlisverisUygulamasi
+flutter pub get
+flutter run
+```
+Ensure you have Flutter installed on your machine. For installation: Flutter Docs
+
+
+🎯 Technologies
+Flutter
+
+Dart
+
+Provider (optional - for state management)
+
+📸 Screenshots
+You can add gameplay screenshots here.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+
