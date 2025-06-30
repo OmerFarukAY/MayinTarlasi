@@ -7,9 +7,8 @@ A simple and interactive Minesweeper game built using **Flutter**. This project 
 - 🔢 10x10 grid layout
 - 💣 Random bomb placement
 - 🧠 Bomb count indicator on each cell
-- 🚩 Flagging mechanism (optional)
+- 🚩 Flagging mechanism (onLongPressed)
 - 📱 Responsive mobile UI
-- 🌗 Support for light/dark mode
 
 ## 🚀 Getting Started
 
