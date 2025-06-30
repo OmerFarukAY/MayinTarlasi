@@ -16,8 +16,8 @@ A simple and interactive Minesweeper game built using **Flutter**. This project 
 To run this project locally:
 
 ```bash
-git clone https://github.com/OmerFarukAY/AlisverisUygulamasi.git
-cd AlisverisUygulamasi
+git clone https://github.com/OmerFarukAY/MayinTarlasi.git
+cd MayinTarlasi
 flutter pub get
 flutter run
 ```
